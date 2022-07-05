@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wkRr5NejjqKK/0ErLORoFwV/msqAo27TZ6LWSP4vnmj0y+EKUR3Opa1jfCeLqsu0VvB/sTAbUQn0MmV+HHop4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jay\\Desktop\\csharp27\\kanyewest\\kanyewest\\kanyewest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jay\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

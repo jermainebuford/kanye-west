@@ -1,0 +1,16 @@
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\kanyewest.exe
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\kanyewest.deps.json
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\kanyewest.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\kanyewest.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\kanyewest.dll
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\kanyewest.pdb
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.csproj.CopyComplete
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.dll
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.pdb
+C:\Users\jay\Desktop\csharp27\kanyewest\kanyewest\obj\Debug\netcoreapp3.1\kanyewest.genruntimeconfig.cache
